@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511967343750",
+    "project_id": "newble-c0717",
+    "storage_bucket": "newble-c0717.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511967343750:android:b382d63cedfe806b1ccd07",
+        "android_client_info": {
+          "package_name": "com.example.newble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy17W0aUMtlUglRgx6PMQPMv8uoLsI6K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
